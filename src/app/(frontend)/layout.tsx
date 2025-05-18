@@ -7,7 +7,7 @@ import type React from "react";
 import { Providers } from "./_providers/providers";
 
 export const metadata: Metadata = {
-  description: "A blank template using Payload in a Next.js app.",
+  description: "A blank template using Payload in a Next.js.",
   title: "Shopnex Payload - Next.js",
 };
 
